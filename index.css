@@ -97,3 +97,11 @@ button {
 	padding: 0.5em 1em;
 	font-size: large;
 }
+
+p {
+	margin-top: 1em;
+}
+
+a {
+	color: black;
+}
